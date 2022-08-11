@@ -1,7 +1,6 @@
-biodata errian
+biodata erian
 nama lengkap: erian ramadhan poetra
 alamat: taman kopo indah 2
 jenis kelamin: laki-laki
 tempat & tanngal lahir: bandung, 13 oktober 2005
-hobi: bermain game
-cita-cita: pengusaha
+hobi: bermain game dan apa aja
