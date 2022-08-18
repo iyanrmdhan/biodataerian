@@ -4,3 +4,4 @@ alamat: taman kopo indah 2
 jenis kelamin: laki-laki
 tempat & tanngal lahir: bandung, 13 oktober 2005
 hobi: bermain game dan apa aja
+cita-cita: apa aja
