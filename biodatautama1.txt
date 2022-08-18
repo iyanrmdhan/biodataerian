@@ -5,3 +5,8 @@ jenis kelamin: laki-laki
 tempat & tanngal lahir: bandung, 13 oktober 2005
 hobi: bermain game dan apa aja
 cita-cita: apa aja
+riwayat pendidikan:
+TK kebonkopi
+SD kebongedang
+smp binadharma 2 bandung
+smk prakarya internasional bandung
